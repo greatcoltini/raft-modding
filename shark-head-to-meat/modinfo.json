@@ -1,0 +1,14 @@
+{
+  "name": "SharkHeadToMeat",
+  "author": "GreatColtini",
+  "description": "Craft one extra shark meat, from shark heads!",
+  "version": "1.0.0",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "shark_head_banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
